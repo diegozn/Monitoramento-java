@@ -2,7 +2,7 @@
 
 # Justificativa:
 
-O projeto “ingresse monitora” nasceu com o objetivo e proposito de monitorar hardwares a fim de facilitar o trabalho de profissionais que diretamente e indiretamente trabalham com a tecnologia de Sinalética digital em cinemas. Acreditamos que com serviços especializados de monitoria, seja para médias ou grandes empresas da área, podem aumentar a durabilidade dos hardware's, economizar recursos (caso os mesmos estejam desalinhados),reduzindo queda de performance e gargalos, diminuindo assim o tempo em filas de espera para a compra de ingressos. Diminuição com gastos frequentes com manutenção e recolocação de hardwares, Diminuição de tempo para compra de ingressos por performance de hardwares, monitoria constante de como seu hardware está atuando, redução de clientes desistentes por uma alta demora em filas.
+O projeto “ingresse monitora” nasceu com o objetivo e proposito de monitorar hardwares a fim de facilitar o trabalho de profissionais que diretamente e indiretamente trabalham com a tecnologia de Sinalética digital em cinemas. Acretido que com serviços especializados de monitoria, seja para médias ou grandes empresas da área, podem aumentar a durabilidade dos hardware's, economizar recursos (caso os mesmos estejam desalinhados),reduzindo queda de performance e gargalos, diminuindo assim o tempo em filas de espera para a compra de ingressos. Diminuição com gastos frequentes com manutenção e recolocação de hardwares, Diminuição de tempo para compra de ingressos por performance de hardwares, monitoria constante de como seu hardware está atuando, redução de clientes desistentes por uma alta demora em filas.
 
  Banco de dados na azure. 
  Testado para rodar em vm ec2 AWS (versão 3 vm)
