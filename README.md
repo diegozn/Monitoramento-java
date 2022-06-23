@@ -10,8 +10,8 @@ Jose@gmail.com
 senha:
 teste
 
-# Banco de dados na azure. 
-# Testado para rodar em vm ec2 AWS (versão 3 vm).
+ Banco de dados na azure. 
+ Testado para rodar em vm ec2 AWS (versão 3 vm).
 
 # Script banco de dados:
 
